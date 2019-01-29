@@ -1,0 +1,126 @@
+body {
+  background-color: #F52800;
+}
+
+h1, h2 {
+  font-family: 'Lobster', cursive !important;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Lobster', cursive !important;
+  text-align: center;
+  font-weight: lighter;
+}
+
+p {
+  font-family: 'Cuprum', sans-serif !important;
+  text-align: center;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.shadowed {
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+.link:hover{
+  color: #D9DADF;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  min-height: 380px;
+  }
+
+.image-info {
+  padding: 50px;
+  text-align: center;
+}
+
+/*.list-inline li {
+  display: inline;
+}*/
+
+.card-image img {
+  min-width: 180px;
+  min-height: 180px;
+}
+
+.card-image img:hover {
+  opacity: 0.5;
+}
+
+.link {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.link-text {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.top-description {
+  margin: 10px;
+  background-color: #CBCBCB;
+  border-radius: 10px;
+  margin-bottom: 1px;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+
+.github-cards {
+  margin: auto;
+  padding: 10px;
+
+}
+
+footer {
+  bottom: 0px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  background-color: #CBCBCB;
+  border-radius: 10px;
+  margin-bottom: 1px;
+  padding-top: 20px;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+.experience-description {
+  text-align: cente;
+  margin: auto;
+  padding: 10px;
+  background-color: #CBCBCB;
+  border-radius: 10px;
+  margin-bottom: 1px;
+  margin-top: 10px;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
+
+.education-summary {
+  text-align: cente;
+  margin: auto;
+  padding: 10px;
+  background-color: #CBCBCB;
+  border-radius: 10px;
+  margin-bottom: 1px;
+  margin-top: 10px;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
